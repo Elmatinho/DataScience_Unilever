@@ -1,0 +1,25 @@
+Preguntas de entrevista sobre Python
+
+Entrega un documento con las respuestas a las siguientes 10 preguntas:
+
+¿Cuál es la diferencia entre una lista y una tupla en Python?
+las listas son modificables, las tuplas no
+
+¿Es necesario el indentado en Python?
+si, permite la claridad del codigo y saber los niveles de anidación en los ciclos y los controles
+¿Qué es un comentario en Python y cómo escribirías uno?
+para dejar notas en el codigo, sin necesidad de alterarlo, con #
+¿Qué es un diccionario en Python?
+un arreglo que permite almacenar datos con llaves asociadas
+¿Cómo convertirías una cadena entera en mayúsculas?
+con .upper()
+¿Qué son los índices negativos y cómo se usan?
+sirven para contar desde atras hacia adelante en una lista o tupla
+¿Cómo harías referencia a un elemento específico dentro de un diccionario Python?
+llamando a la llave dentro del diccionario
+¿Qué hace el método .pop() a una lista?
+para eliminar un elemento específico de la lista
+¿Cómo accederías a los últimos 3 elementos en una lista dada?
+con un reverse, un ciclo for y que empieze de atras hacia el 3 elemento
+¿Qué es la función enumerate y por qué se usa?
+para iterar sobre una lista sin necesidad de hacer un ciclo for
