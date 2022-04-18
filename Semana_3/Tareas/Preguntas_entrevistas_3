@@ -1,0 +1,31 @@
+1) Una buena visualización de datos es la que te entrega información útil con solo
+una simple ojeada al gráfico, es por eso que el gráfico debe ser muy preciso en la 
+información que uno le va a dar y mostrar.
+
+2) Los seres humanos somos seres vista, todo nos entra por la vista más que por los 
+otros sentidos, es por ello que un gráfico permite entregar mejores conclusiones que
+solo mostrar los datos. Además que los hace más interesantes y llamativos.
+
+3)Los ejes, los datos, titulo, la leyenda y alguna caracteristica llamativa de los 
+datos.
+
+4)Con un gráfico de barras donde se muestren intervalos de una de las variables, con
+gráficos de puntos o de dispersión para ver como se comporta la población o que tan 
+relacionados estan entre ellos.
+
+5)los mapas de calor muestran la concentración o porcentaje que tiene una variable del total,
+es decir, que si una variable 1 tiene mayor participación sobre el total que una variable 2
+la variable 1 tendrá más "calor" que la variable 2.
+
+6) histogramas, series de tiempo, de lineas, dispersión, mapas de calor, de torta,
+de velas.
+
+7)Más que nada con las herramientas de power BI
+
+8)Tienes matplotlib, pyplot.express, seaborn, tableau
+
+9)Power Bi, Datastudio,ibm Cognos, Tableau
+
+10) El de lineas muestra como es el seguimiento o crecimiento de una variable a traves
+del tiempo o de distintas variables, mientras que el de dispersión muestra la concentración
+de una variable.
