@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "../../../../solutions/predicciones-ventas"
+		},
+		{
+			"path": "../../../DataScienceUnilever2022"
 		}
 	],
 	"settings": {}
