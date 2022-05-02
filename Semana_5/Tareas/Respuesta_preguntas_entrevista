@@ -1,0 +1,18 @@
+1) la diferencia entre estos dos tipos de aprendizaje es la existencia con que comparar la información que tenemos en nuestra data, es decir,
+que dentro del propio data set viene la columna o la trama de datos que tratamos de categorizar o hacer una regresion, lo que nos permite
+ver que tanta relacion existe entre los datos.
+2) La diferencia entre estos dos terminos es que la clasificación nos permite generar, a base de la data, clasificaciones y similitudes entre 
+distintos datos, mientras que las regresiones es proyectar el comportamiento de un registro o de un futuro registro.
+3) Dentro del modelo de regresion lineal existe el supuesto que en los datos hay una variable que es dependiente de la otra, junto con que 
+tienen un comportamiento "lineal" 
+4) El KNN funciona a través de distancias euclidianas de los registros más cercanos, es por eso que al definir la cantidad de vecinos más
+cercanos, el algoritmo le entrega una clasificación al registro segun la cantidad de datos que más se repita.
+5) La regresion linal es un metodo que permite saber a traves de una linea como van a ser los datos futuros según los datos pasados.
+6) la compensacion sesgo-varianza en KNN habla que estas dos caracteristicas son inversas entre sí según el numero de k presentes en el algoritmo
+de clasificación de KNN 
+7) El aprendizaje automatico es la capacidad del computador o el hardware de aprender según los datos que le vamos entregando al algoritmo, por lo que
+cuando recibe más datos, aprende más y de forma autonoma.
+8) Clasificación de segmento de mercado, clasificaciones de galaxias, regresiones de comportamiento de valores de acciones en la bolsa, entre otras.
+9) al aumentar el k en KNN se disminuye la varianza de la clasificacion, pero si este es demasiado, puede llegar al punto que la clasificación llegue a estar
+muy sesgada, es por eso que debe existir el equilibrio entre estas dos.
+10) tienes el R2, MSE, MAE, RMSE, confusion matrix, etc.
