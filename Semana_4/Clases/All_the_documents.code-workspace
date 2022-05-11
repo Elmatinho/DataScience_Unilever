@@ -14,6 +14,9 @@
 		},
 		{
 			"path": "../../../Rendici-n-de-examenes"
+		},
+		{
+			"path": "../../../F1_ML_classifier"
 		}
 	],
 	"settings": {}
