@@ -9,3 +9,6 @@ se contempla
 - Semana 6: Árboles de Decisión y Bosques Aleatorios
 - Semana 7: Regresión Logística
 - Semana 8: Algoritmos de Agrupamiento
+## Las clases 
+Fueron realizadas por Jesús Ortíz y para acceder a ellas usar el siguiente link
+https://github.com/jeedorsa/DataScienceUnilever2022/tree/main/Track%201/Clases
