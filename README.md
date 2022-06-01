@@ -12,3 +12,6 @@ se contempla
 ## Las clases 
 Fueron realizadas por Jesús Ortíz y para acceder a ellas usar el siguiente link
 https://github.com/jeedorsa/DataScienceUnilever2022/tree/main/Track%201/Clases
+## Página de apoyo
+Además de esto, se uso el sitio de Geeksforgeeks para apoyar el estudio y aprendizaje durante todo el curso
+https://www.geeksforgeeks.org/python-programming-language/?ref=ghm
